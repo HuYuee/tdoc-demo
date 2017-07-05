@@ -1,0 +1,23 @@
+{
+  "name": "tdoc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/tdoc-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/tdoc-demo/issues"
+  },
+  "homepage": "https://github.com/HuYuee/tdoc-demo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "tdoc-cli": "0.0.5"
+  }
+}
